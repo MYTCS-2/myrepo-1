@@ -1,0 +1,55 @@
+1)How to create GitHub Account
+2)How to create repository
+3)uploading website ,using drag and drop and using GitHubDesktop
+4)Git Lifecycle with local repo
+  new branch creation
+  branch deletion
+  moving between the branches
+--------------------------------------------------------------------
+
+1)Launching ubuntu 20.04 on AWS Cloud,Login
+2)Creating and cloning local repo
+3)execute Git Lifecycle on local repo
+4)Synchronising local repo with GitHub
+5)Pushing our local repo data to GitHub
+
+	Create a token Token to push the data
+
+	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
+
+cloning :
+
+     -default branch data will be clonned.
+     -How to get specific branch data
+     -git clone -b FAbranch https://github.com/MYTCS-1/Agent.git
+
+6)How to add tags for commit ids
+
+   git tag v1
+
+7)How to change commit message
+
+   git commit --amend -m "New Message for last commit"
+
+8) how to do add and commit togather
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
